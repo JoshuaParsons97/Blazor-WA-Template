@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\bin\Debug\net6.0\BlazorTemplate.Shared.deps.json
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\bin\Debug\net6.0\BlazorTemplate.Shared.dll
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\bin\Debug\net6.0\BlazorTemplate.Shared.pdb
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.AssemblyInfo.cs
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.dll
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\refint\BlazorTemplate.Shared.dll
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.pdb
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\ref\BlazorTemplate.Shared.dll
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\bin\Debug\net6.0\BlazorTemplate.Shared.runtimeconfig.json
+C:\Users\joshu\source\repos\BlazorTemplate\BlazorTemplate\Shared\obj\Debug\net6.0\BlazorTemplate.Shared.genruntimeconfig.cache

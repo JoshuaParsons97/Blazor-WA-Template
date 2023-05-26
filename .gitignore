@@ -1,0 +1,12 @@
+
+*.dll
+*.pdb
+*.wasm
+*.dat
+*.gz
+*.cache
+*.json
+*.props
+*.CopyComplete
+*.editorconfig
+*.targets
